@@ -1,4 +1,5 @@
 # Automated_Data_Labelling_of_URL
+Deployed URL link : https://automated-url-labelling.herokuapp.com/
 
 FUNCTIONING OF WEB APPLICATION
 
